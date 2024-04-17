@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Luxurious Villa with Ocean View",
+    "segment_name": "Luxury",
+    "description": "Beautiful villa with stunning ocean views, featuring spacious living areas, modern kitchen, and private swimming pool.",
+    "price": "$1,500,000",
+    "status": "sale",
+    "area": "4000 sq ft",
+    "location": "Coastal Avenue, Miami",
+    "facilities": ["living room", "swimming pool", "kitchen"],
+    "image": "https://i.ibb.co/gRfHdhJ/Luxurious-Villa-with-Ocean-View.jpg"
+  },
+  {
+    "id": 2,
+    "estate_title": "Modern Apartment with City View",
+    "segment_name": "mixed",
+    "descriptio  n": "Spacious and stylish apartment with panoramic city views.",
+    "price": "$500,000",
+    "status": "sale",
+    "area": "2000 sq ft",
+    "location": "New York City, NY",
+    "facilities": ["Living Room", "Swimming Pool", "Kitchen"],
+    "image": "https://i.ibb.co/BCQv55L/Modern-Apartment-with-City-View.jpg"
+  },
+
+  {
+    "id": 3,
+    "estate_title": "Luxury Condo in Downtown",
+    "segment_name": "Luxury",
+    "description": "Elegant condo located in the heart of the city, offering luxury living and convenience.",
+    "price": "$800,000",
+    "status": "rent",
+    "area": "1800 sq ft",
+    "location": "Los Angeles, CA",
+    "facilities": ["Gym", "Spa", "Concierge Service"],
+    "image": "https://i.ibb.co/7bfY4X5/Luxury-Condo-in-Downtown.jpg"
+  },
+  {
+    "id": 4,
+    "estate_title": "Seaside Villa with Ocean View",
+    "segment_name": "Luxury",
+    "description": "Beautiful villa overlooking the ocean, with private beach access and stunning sunset views.",
+    "price": "$1,200,000",
+    "status": "sale",
+    "area": "3000 sq ft",
+    "location": "Miami, FL",
+    "facilities": ["Private Pool", "Beachfront", "Terrace"],
+    "image": "https://i.ibb.co/XsRhL9w/seaside-villa-with-ocean-view.jpg"
+  }
+]
